@@ -1,4 +1,4 @@
-﻿var apiKey = "1b0cfebc";
+﻿var apiKey = "*IoT Apikeyini giriniz*";
 var name = "not_set";
 var lang = "tr-TR"; //en-US
 function guid() {
